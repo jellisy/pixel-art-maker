@@ -5,8 +5,8 @@ An interactive web page written in HTML, CSS, and JavaScript. This project was w
 # Description
 
 The web page demonstrates skills and understanding of the core concepts required for the project:
-- Defining variables by selecting the DOM elements using methods of the document object
-- Adding event listeners to relevant DOM elements by declaring inline functions
+- Defining variables by selecting the DOM elements using methods of the document object.
+- Adding event listeners to relevant DOM elements by declaring inline functions.
 - Writing nested for loops to dynamically generate the table based on user specifications.
 
 # Instructions
