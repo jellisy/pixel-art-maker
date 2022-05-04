@@ -9,10 +9,10 @@ sizePicker.addEventListener('submit', function(event) {
     // Prevent default action
     event.preventDefault();
     // Store height value
-    let height = document.getElementById("inputHeight").value;
+    let n = document.getElementById("inputHeight").value;
     // Store width value
-    let width = document.getElementById("inputWidth").value;
-    makeGrid(height, width);
+    let m = document.getElementById("inputWidth").value;
+    makeGrid(n, m);
 
 });
 // Create an N by M grid
